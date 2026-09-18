@@ -1,0 +1,2 @@
+# kremchiziz
+server kremsmp pack
